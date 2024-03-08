@@ -4,7 +4,6 @@ This is My Portfolio, do check out and follow me on social media handles......ht
 User-friendly, responsive, and accessible portfolio  🚀⚡
 
 
-## Useful resources
 
 ## Features
 

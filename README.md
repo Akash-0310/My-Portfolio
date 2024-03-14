@@ -10,7 +10,6 @@ User-friendly, responsive, and accessible portfolio  🚀⚡
 - Fully Mobile responsive.
 - Supports light/dark theme.
 - Modern design.
-- Multiple sections.
 - Sleek animations.
 - Fast loads.
 - SEO-optimized.
